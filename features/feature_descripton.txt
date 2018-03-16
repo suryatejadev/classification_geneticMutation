@@ -1,0 +1,1 @@
+This folder contains word embeddings of the data using various NLP techniques like bag of wrds, Word2vec, doc2vec, etc.

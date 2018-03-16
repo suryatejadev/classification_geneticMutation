@@ -1,0 +1,5 @@
+output/
+*.pickle
+data/training_variants
+report/
+
